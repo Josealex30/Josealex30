@@ -12,7 +12,7 @@
   </a>
 </div>
 
-# <img src="/meow_popcorn.gif" width="30"/>  Hola, Soy Jose! 
+# <img src="/meow_popcorn.gif" width="30"/>  Hola, soy Jose! 
 
 ###
 
